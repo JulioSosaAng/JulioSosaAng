@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulioSosaAng
 - 👀 I want to continue my learning in React js
-- 🌱 I’m currently working as Front End Developer
+- 🌱 I’m currently working as a Front End Developer
 - 📫 How to reach me, send me a message.
 
 <!---
