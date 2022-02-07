@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulioSosaAng
-- 👀 I’m interested in learning JS, CSS and HTML
-- 🌱 I’m currently learning Front End Development
+- 👀 I want to continue my learning in React js
+- 🌱 I’m currently working as Front End Developer
 - 📫 How to reach me, send me a message.
 
 <!---
