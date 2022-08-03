@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulioSosaAng (Julio Sosa Angeles)
-- 👀 I want to continue my learning in JS
+- 👀 I want to continue my learning in React.js
 - 🌱 I’m currently working as a Front End Developer
 - 📫 How to reach me, find me on Linkedin https://www.linkedin.com/in/julio-sosa-angeles-450b9697/
 
