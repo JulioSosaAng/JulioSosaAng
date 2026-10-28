@@ -1,6 +1,5 @@
 - 👋 Hola, soy @JulioSosaAng (Julio Sosa Angeles)
 - 👀 Interesado en el análisis de datos, el aprendizaje automático y la visualización de datos.
-- 🌱 Actualmente en transición de desarrollador web a científico de datos, construyendo mi portafolio de proyectos.
 - 📫 Escribime por Linkedin, https://www.linkedin.com/in/jsangeles/
 
 <!---
